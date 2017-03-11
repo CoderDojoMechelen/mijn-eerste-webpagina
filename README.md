@@ -38,4 +38,4 @@ Dus wanneer we dan "Hallo Wereld!" willen gaan weergeven zal onze webpagina er o
 </html>
 ```
 
-Wil je het nu zelf proberen? Neem dan snel een kijkje en open `hallo.html` waar je nu zelf "Hallo Wereld!" kunt schrijven.
+Wil je het nu zelf proberen? Neem dan snel een kijkje en open [`hallo.html`](hallo.html) waar je nu zelf "Hallo Wereld!" kunt schrijven.
